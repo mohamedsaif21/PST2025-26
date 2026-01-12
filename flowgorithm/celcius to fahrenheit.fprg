@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="circumference of circle"/>
+        <attribute name="authors" value="dell"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-01-06 09:47:11 PM"/>
+        <attribute name="created" value="ZGVsbDtERVNLVE9QLUhPNlYzMUY7MjAyNi0wMS0wNjsxMDo1MToyMSBBTTsyNzE3"/>
+        <attribute name="edited" value="ZGVsbDtERVNLVE9QLUhPNlYzMUY7MjAyNi0wMS0wNjswMjo0MDoxNSBQTTsyOzI4NDM="/>
+        <attribute name="edited" value="TW9oYW1lZCBzYWlmO0RFU0tUT1AtUzE0TkQ0SDsyMDI2LTAxLTA2OzA5OjQ3OjExIFBNOzE7MzU3OA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="fahrenheit" type="Integer" array="False" size=""/>
+            <declare name="c" type="Integer" array="False" size=""/>
+            <assign variable="c" expression="35"/>
+            <assign variable="fahrenheit" expression="(9/5*c)+32"/>
+            <output expression="&quot;the fahrenheit of 35 degree celcius is&quot;&amp;fahrenheit" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
