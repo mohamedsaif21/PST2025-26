@@ -24,16 +24,7 @@ p {
     color: #666;
 }
 
-ul {
-    list-style-type: none;
-    padding: 0;
-}
 
-li {
-    background-color: #e0e0e0;
-    margin: 5px;
-    padding: 8px;
-}
 
 .profile-img {
     width: 100px;
